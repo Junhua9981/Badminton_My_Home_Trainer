@@ -1,0 +1,31 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/">
+    <file>assets/screen.png</file>
+    <file>assets/playbutton.png</file>
+    <file>assets/modebutton1.png</file>
+    <file>assets/modebutton2.png</file>
+    <file>assets/modebutton3.png</file>
+    <file>assets/modebutton4.png</file>
+    <file>assets/background.png</file>
+    <file>assets/chatsbutton.png</file>
+    <file>assets/mode2-1button.png</file>
+    <file>assets/mode2-1button-new.png</file>
+    <file>assets/mode2-2button.png</file>
+    <file>assets/mode2-2button-new.png</file>
+    <file>assets/back_button.png</file>
+    <file>assets/high_clear.png</file>
+    <file>assets/high_clear_step1.png</file>
+    <file>assets/high_clear_step2.png</file>
+    <file>assets/high_clear_step3.png</file>
+    <file>assets/high_clear_step4.png</file>
+    <file>assets/smash.png</file>
+    <file>assets/smash_step1.png</file>
+    <file>assets/smash_step2.png</file>
+    <file>assets/smash_step3.png</file>
+    <file>assets/drop.png</file>
+    <file>assets/drop_step1.png</file>
+    <file>assets/drop_step2.png</file>
+    <file>assets/drop_step3.png</file>
+</qresource>
+</RCC>
